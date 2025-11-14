@@ -1,25 +1,11 @@
-# Global Analysis of Universities' Success 
+# University Performance Insights Dashboard
 
 Comprehensive global analysis of university success utilizing **Power BI, Excel, and SQL** integrating data from diverse ranking systems and criteria.
-
-
----
-
-![Screenshot 2024-04-26 173935](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/7db39916-0718-4ac3-a876-427efe3024dd)
-
-
-## How to Access Project Materials
-
-- [Link to Access the PowerPoint Presentation and Video Walkthrough](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
-  - Access the PowerPoint presentation for an in-depth understanding of the project. Additionally, watch the accompanying video walkthrough for a detailed explanation of key insights and methodologies.
-
-  [![PowerPoint Presentation](https://img.shields.io/badge/PowerPoint-FF0000?style=for-the-badge&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
-
 ---
 
 ## Overview
 
-The "University Success Analysis" is a comprehensive capstone project exploring the impact of ranking systems on universities. It aims to compare university rankings, evaluate the influence of ranking criteria, and analyze dynamic shifts in university metrics over time.
+The "University Performance Insights" is a comprehensive capstone project exploring the impact of ranking systems on universities. It aims to compare university rankings, evaluate the influence of ranking criteria, and analyze dynamic shifts in university metrics over time.
 
 ---
 
@@ -177,41 +163,3 @@ Seamlessly navigate the project with these simple steps:
 3. **Detailed Project Overview:**
    - Gain profound insights and methodologies.
    - Access `University_Success_Detailed_Analysis_Report.docx` for a deep understanding of the project lifecycle, covering data collection, transformation, MECE breakdown, tool integration, EDA insights, and Power BI solutions.
-
----
-
-## Feedback, Contributions, and Git Clone
-
-Your feedback is invaluable! If you have suggestions, or questions, or would like to contribute to the "University Success Analysis" project, feel free to:
-
-- **Open an Issue:**
-  - For bug reports or feature requests, [open an issue](https://github.com/virajbhutada/Global-Universities-Success-Analysis/issues).
-
-- **Submit a Pull Request:**
-  - Contribute enhancements or fixes by [submitting a pull request](https://github.com/virajbhutada/Global-Universities-Success-Analysis/pulls).
-
-- **Reach Out:**
-  - You can [reach out via email](virajnbhutada24@gmail.com).
-
-### Git Clone
-
-To clone the repository and access the project files locally, use the following command:
-
-```bash
-git clone https://github.com/virajbhutada/Global-Universities-Success-Analysis.git
-```
----
-
-## Project Involvement and Customization
-
-Your active engagement enhances the quality of this project, and your valuable insights are truly appreciated! Your contributions contribute to the excellence of the "University Success Analysis."
-
----
-
-## Connect With Me 🌐
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
-
----
-
-**Explore, Analyze, and Contribute! 🌐📊**
