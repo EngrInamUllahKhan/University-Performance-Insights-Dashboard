@@ -44,21 +44,6 @@ This project holds significant implications for gaining insights into and enhanc
 
 *The Entity-Relationship (ER) Diagram illustrates interconnected data entities, providing a visual guide to relationships between countries, universities, ranking systems, criteria, and their dynamic interactions in global higher education.*
 
-## 4. Project Presentation (PowerPoint)
-
-- **File Name:** Project_Presentation.pptx
-- **Description:** Commence a visual journey! This PowerPoint presentation provides an overview of the project, methodologies, and a detailed breakdown of each problem statement addressed during the exploratory data analysis (EDA) and Power BI phases.
-- [Link to Access the PowerPoint Presentation and Video Walkthrough](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
-
-*Access the PowerPoint presentation for a comprehensive overview of the project, and watch the accompanying video walkthrough for detailed insights and methodologies*
-
-## 5. Detailed Analysis Report (Word)
-
-- **File Name:** University_Success_Detailed_Analysis_Report.docx
-- **Description:** Explore the details! This comprehensive document guides you through every stage of the project, from data gathering and transformation to systematic breakdown, integration of tools, insights gained through exploratory data analysis (EDA), and implementation of solutions using Power BI.
-
----
-
 ## Dataset Description
 
 The dataset offers comprehensive insights into universities, their rankings, and associated metrics. Structured with key tables, it enables a detailed analysis, supporting informed decision-making in higher education.
